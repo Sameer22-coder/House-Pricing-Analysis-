@@ -22,7 +22,7 @@ Lot and living area size sliders
 Year built filter
 
 # Tools Used
-1.<br>Tableau for data visualization <br>
+1.Tableau for data visualization <br>
 2.Mapbox & OpenStreetMap for geographical representation<br>
 3.Microsoft Excel Dataset<br>
 
