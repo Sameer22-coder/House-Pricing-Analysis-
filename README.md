@@ -23,8 +23,8 @@ Year built filter
 
 # Tools Used
 1.Tableau for data visualization <br\>
-2.Mapbox & OpenStreetMap for geographical representation
-3.Microsoft Excel Dataset
+2.Mapbox & OpenStreetMap for geographical representation<br>
+3.Microsoft Excel Dataset<br>
 
 #  Outcome
 This dashboard makes it easy for users to:
