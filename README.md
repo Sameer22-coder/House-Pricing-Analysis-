@@ -41,4 +41,4 @@ House Pricing Project.twbx: https://github.com/Sameer22-coder/House-Pricing-Anal
 - HouseData.xlsx: Raw dataset used to create the visualizations.
 - Tableau_Dashboard.jpg: ![Tableau_Dashboard](https://github.com/user-attachments/assets/76a8f993-f27c-4a95-8619-40d1600cf129)
 
-- README.md: Documentation of the project, purpose, and insights.
+- README.md:https://github.com/Sameer22-coder/House-Pricing-Analysis-/blob/main/README.md
