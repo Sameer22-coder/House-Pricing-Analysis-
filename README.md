@@ -17,7 +17,7 @@ To provide a visual exploration of house sales data in Washington with a focus o
 5.Histograms: Offer insights into the distribution of prices, bedrooms, and bathrooms.
 
 Interactive Filters:
-Date filter
+Date filter.
 Lot and living area size sliders
 Year built filter
 
